@@ -1,0 +1,2 @@
+Flask==0.10.1
+influxdb_python==2.11.0

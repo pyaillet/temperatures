@@ -1,0 +1,6 @@
+[influxdb]
+	host = 'influxdb.hostname'
+	port = 8086
+	username = 'user'
+	password = 'password'
+	database = 'temps'
